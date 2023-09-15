@@ -19,3 +19,5 @@ Then make a new tile palette, drag the prefab into the scene (it won't work in p
 
 
 ![alt text](https://github.com/SentientDragon5/TIlemapPaletteSpriteSheetTool/blob/main/Organized%20Import.png)
+
+Spritesheet from https://szadiart.itch.io/pixel-fantasy-caves, Not mine, just an example.
